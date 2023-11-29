@@ -40,6 +40,10 @@ Resolving deltas: 100% (11517/11517), done.
 victor@victorpc:exampleSite$ code .
 ```
 
+## Copy `themes/blowfish/exampleSite` folders and files into project root
+
+- Recursive copy should be sufficient
+
 ## Run locally
 
 ```bash
