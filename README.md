@@ -1,5 +1,8 @@
 # Setup and run Hugo Blowfish theme `exampleSite` locally
 
+- [Blowfish Site](https://blowfish.page/)
+- [Github repo](https://github.com/victorkane/run-hugo-blowfish-theme-sample-site/blob/main/README.md)
+
 ## Create a new Hugo site
 
 ```bash
