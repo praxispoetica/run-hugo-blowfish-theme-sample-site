@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Using Blowfish"
 
 [params]
   displayName = "EN"
@@ -10,7 +10,7 @@ title = "Blowfish"
   dateFormat = "2 January 2006"
   logo = "img/blowfish_logo_transparent.png"
   # secondaryLogo = "PATH"
-  description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  description = "Showing A powerful, lightweight theme for Hugo built with Tailwind CSS."
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
