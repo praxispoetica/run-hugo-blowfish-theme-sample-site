@@ -1,6 +1,7 @@
 # Setup and run Hugo Blowfish theme `exampleSite` locally
 
 - [Blowfish Site](https://blowfish.page/)
+  - <small>Created by [Nuno Coração @nunocoracao](https://twitter.com/nunocoracao)</small>
 - [Github repo](https://github.com/victorkane/run-hugo-blowfish-theme-sample-site/blob/main/README.md)
 
 ## Create a new Hugo site
